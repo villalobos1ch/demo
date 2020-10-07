@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/villalobos1ch/demo/edit/gh
 You can use the [aaaaaa](https://github.com/villalobos1ch/demo/edit/gh-pages/blog.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+[Link to another page](./another-page.html).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
