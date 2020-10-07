@@ -5,7 +5,7 @@ You can use the [aaaaaa](https://github.com/villalobos1ch/demo/edit/gh-pages/blo
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-[Link to another page](./another-page.html).
+[Link to another page](./blog.html).
 
 ### Markdown
 
